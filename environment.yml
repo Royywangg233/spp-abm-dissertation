@@ -1,0 +1,9 @@
+name: ssp-abm
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - osmnx
+  - statsmodels
+prefix: /Users/wanghao/opt/anaconda3/envs/ssp-abm
